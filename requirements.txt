@@ -1,0 +1,3 @@
+# Hangman Game - Dependencies
+# No external dependencies are required.
+# This project uses only Python's standard library (random, string).
